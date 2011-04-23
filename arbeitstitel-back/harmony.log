@@ -1,0 +1,882 @@
+Harmony.dll v1.1.1 eingebunden
+   Application.Initialize
+   Application.CreateForm(TForm1, Form1)
+Found MS Windows NT Kernel (2) Vers: 5.1
+-> Using mciqtz32.drv
+ScriptAction mcicommand registriert.
+ScriptAction writetolog registriert.
+ScriptAction execprogram registriert.
+ScriptAction miditickfunction registriert.
+ScriptAction addoutput registriert.
+HarmonyCreate erfolgreich ausgefuehrt
+HarmonyInitMidi erfolgreich ausgefuehrt
+HarmonyInitWave erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(50) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(800 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Wizardry_96.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Wizardry_96.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyFadeOutMusic(5000 erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Item1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Item1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Dungeon6.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Dungeon6.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(80) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Bell.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Battle2.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Battle2.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(30) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Thunder7.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Thunder8.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Damage1.wav,50,90,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Monster1.wav,50,140,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Damage1.wav,50,90,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Monster1.wav,50,140,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\BattleEnd2.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\BattleEnd2.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(1000) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(30) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Dungeon6.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Dungeon6.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(80) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(400 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(50) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(800 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(400 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(50) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(800 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Dungeon6.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Dungeon6.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(80) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\Carry_On_Laughing2.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\Project\WickedWWA\Music\A_Summerday.wav) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(100) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(100) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Blow1.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Blow2.wav,100,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\phone.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Rain1.wav,80,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(400 erfolgreich ausgefuehrt
+HarmonyStopMusic gestartet
+HarmonyStopMusic erfolgreich ausgefuehrt
+HarmonyStopSound aufgerufen
+original HarmonyStopSound wird ausgefuehrt
+HarmonyStopSound erfolgreich ausgefuehrt.
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Cansel1.wav) erfolgreich ausgefuehrt
+HarmonyReserveSound(C:\Programme\ASCII\RPG2000\RTP\Sound\Buzzer2.wav) erfolgreich ausgefuehrt
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) gestartet
+HarmonyPlayMusic(C:\Programme\ASCII\RPG2000\RTP\Music\Night.mid) erfolgreich ausgefuehrt
+HarmonyFadeInMusic(0) erfolgreich ausgefuehrt
+HarmonySetMusicVolume(50) erfolgreich ausgefuehrt
+HarmonySetMusicSpeed(110) erfolgreich ausgefuehrt
+HarmonySetMusicPanpot(50) erfolgreich ausgefuehrt
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Cursor1.wav,80,150,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyPlaySoundEx(C:\Programme\ASCII\RPG2000\RTP\Sound\Decision2.wav,50,100,50)
+   original HarmonyPlaySoundEx wird ausgefuehrt
+HarmonyPlaySoundEx erfolgreich ausgefuehrt.
+HarmonyFadeOutMusic(400 erfolgreich ausgefuehrt
+HarmonyRelease erfolgreich ausgefuehrt
+HarmonyRelease gescheitert
